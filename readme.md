@@ -10,7 +10,7 @@ Stack
 
   ### Getting Started
 
-    Copy the template: [https://github.com/JeremyEffinger/React-Express-template/generate](https://github.com/JeremyEffinger/React-Express-template/generate)
+   [Click here to copy the template](https://github.com/JeremyEffinger/React-Express-template/generate)
 
 ### Then git clone:
 
