@@ -21,17 +21,20 @@ git clone https://github.com/yourusername/your-project-name.git
 
 ```bash
 cd your-project-name
+```
+
+```bash
 yarn
 ```
-    ### Start the development server
-    
+### Starting the development server
+
 ```bash
 yarn run dev
 ```
 
 This runs the frontend on port 5173 and the backend on port 6000, using vite's proxy to prevent CORS issues. Any requests to /api/v1 will be routed through the proxy.
 
-  ###API Endpoints
+  ### API Endpoints
 
 The API endpoints are defined in the server.js file.
 Configuration
